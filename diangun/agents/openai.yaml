@@ -1,0 +1,4 @@
+interface:
+  display_name: "电棍 (Diangun)"
+  short_description: "AI工具监督技能，检测偷懒罢工并让AI重新认真工作"
+  default_prompt: "这个AI在偷懒，帮我让它认真干活"
